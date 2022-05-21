@@ -1,4 +1,5 @@
 <script lang="ts">
+  // @hmr:keep-all
   import logo from './assets/svelte.png'
   import Counter from './lib/Counter.svelte'
 </script>
@@ -10,7 +11,7 @@
   <Counter />
 
   <p>
-    Visit <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte
+    Visitasd <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte
     apps.
   </p>
 
